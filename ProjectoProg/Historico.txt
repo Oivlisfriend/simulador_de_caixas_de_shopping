@@ -1,0 +1,2 @@
+Caixa 4 Clientes_na_fila: 1 Tempo_restante_para_atender_cliente_topo: 10.0 Clientes_atendidos: 0 Tempo_total_atendimento: 7.0 Tempo_medio_de_atendimento: 0.0 Cliente: 1 Produto: 4
+Caixa 5 Clientes_na_fila: 1 Tempo_restante_para_atender_cliente_topo: 5.0 Clientes_atendidos: 0 Tempo_total_atendimento: 3.0 Tempo_medio_de_atendimento: 0.0 Cliente: 1 Produto: 88
